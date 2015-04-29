@@ -36,5 +36,5 @@ Please feel free to do any of the following
 ### Issues
 ---
 
-* You can suggest new profession categories or discuss by creating an issue [here](https://gitlab.com/vamshisuram/awesome-browser-extensions/issues/new)
+* You can suggest new profession categories or discuss by creating an issue [here](https://github.com/vamshisuram/awesome-browser-extensions/issues/new)
 * Please tag the issue with appropriate label.
