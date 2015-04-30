@@ -1,0 +1,14 @@
+
+.portfolio-item p {
+    font-size: 40px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+    -webkit-text-fill-color: black;
+    -webkit-text-stroke: 1px white;
+}
+
+footer h2 {
+    text-align: center;
+}
