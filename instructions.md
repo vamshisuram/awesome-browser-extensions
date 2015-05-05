@@ -13,25 +13,11 @@ Please feel free to do any of the following
 ### Contributing
 ---
 
-* Clone the project
+* Send your pull request on branch named <username>-<profession>-<number>
+  Ex: vamshisuram-web-development-01
 
-  ```
-  $ git clone https://github.com/vamshisuram/awesome-browser-extensions.git
-  ```
+* Please follow __alphabetical__ order in extensions listing.
 
-* Create branch using the existing profession label, you will be contributing to.
-  ```
-  Example:
-  $ git checkout -b vamshisuram-web-development-01
-  ```
-
-* Follow __alphabetical__ order in extensions listing. Make changes and push to the same branch on origin
-  ```
-  Example:
-  $ git push origin vamshisuram-web-development-01
-  ```
-
-* Please pull the missing commits from master and merge them into your branch. Once you are code complete, send pull request to master branch using github.
 
 ### Issues
 ---
