@@ -1,7 +1,7 @@
 # awesome-browser-extensions
 A list of useful browser extensions for different professionals
 
-__Website__: [https://github.com/vamshisuram/awesome-browser-extensions](https://github.com/vamshisuram/awesome-browser-extensions)
+__Website__: [http://vamshisuram.github.io/awesome-browser-extensions](http://vamshisuram.github.io/awesome-browser-extensions)
 
 ## Use case ?
 Web has changed quite a lot. From running mere static sites to complex applications.
