@@ -13,8 +13,8 @@ Please feel free to do any of the following
 ### Contributing
 ---
 
-* Send your pull request on branch named <username>-<profession>-<number>
-  Ex: vamshisuram-web-development-01
+* Send your pull request on branch named `<username>-<profession>`
+    * Ex: __vamshisuram-web-developer__
 
 * Please follow __alphabetical__ order in extensions listing.
 
