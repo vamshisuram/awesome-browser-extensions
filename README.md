@@ -1,6 +1,8 @@
 # awesome-browser-extensions
 A list of useful browser extensions for different professionals
 
+__Website__: [https://github.com/vamshisuram/awesome-browser-extensions](https://github.com/vamshisuram/awesome-browser-extensions)
+
 ## Use case ?
 Web has changed quite a lot. From running mere static sites to complex applications.
 A lot of people (web-developers per se), have their dot files (configurations) they can import and work on any system.
