@@ -14,8 +14,11 @@
       * Helps in saving articles, videos and more.
     * [Tab Manager](https://chrome.google.com/webstore/detail/tab-manager/coonecdghnepgiblpccbbihiahajndda)
       * This helps in managing your browser tabs.
+    * [Taskade](https://chrome.google.com/webstore/detail/taskade-team-task-notes-a/hcobdfnjjaceclfdjpmmpiknimccjpmf)
+      * Team task list, notes and chat, all in one app. Get work done faster and smarter. Taskade is simple, flexible and fun.
     * [Wunderlist](https://chrome.google.com/webstore/detail/wunderlist-to-do-and-task/fjliknjliaohjgjajlgolhijphojjdkc)
       * Manage your work through simple todo task list.
 
 * #### Mozilla browser extensions
-    * TODO
+    * [Taskade](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)
+      * Team task list, notes and chat, all in one app. Get work done faster and smarter. Taskade is simple, flexible and fun.
