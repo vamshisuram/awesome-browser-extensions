@@ -19,12 +19,12 @@ Curated lists of browser extensions grouped according to profession
  * [Web Designer](https://github.com/vamshisuram/awesome-browser-extensions/blob/master/web-designer.md)
  * [Web Developer](https://github.com/vamshisuram/awesome-browser-extensions/blob/master/web-developer.md)
  * [Writer](https://github.com/vamshisuram/awesome-browser-extensions/blob/master/writer.md)
+ * [Gamer](https://github.com/vamshisuram/awesome-browser-extensions/blob/master/gamer.md)
 
 
 ## Roadmap
 Browser extensions for:
 
-* Gamer,
 * Doctor,
 * Accountant,
 * and any other category you wish to see.
