@@ -13,8 +13,8 @@
       * Tool for debugging Backbone applications.
     * [Buffer](https://chrome.google.com/webstore/detail/buffer/noojglkidnpfjbincgijbaiedldjfbhh)
       * Buffer is the best way to share great content to Twitter, Facebook and LinkedIn from anywhere on the web, with just one click.
-    * [CodeWyng](https://chrome.google.com/webstore/detail/codewyng/njkkfaliiinmkcckepjdmgbmjljfdeee)
-      * CodeWyng provides lightning fast code navigation on GitHub.
+    * [CodeWing](https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee)
+      * Next level code navigation on GitHub.
     * [CoffeeConsole](https://chrome.google.com/webstore/detail/coffeeconsole/ladbkfdlnaibelfidknofapbbdlhadfp)
       * A CoffeeScript console within the Web Inspector.
     * [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
