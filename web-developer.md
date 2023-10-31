@@ -49,6 +49,8 @@
       * Makes JSON easy to read
     * [Knockoutjs context debugger](https://chrome.google.com/webstore/detail/knockoutjs-context-debugg/oddcpmchholgcjgjdnfjmildmlielhof)
       * Shows the knockout context & data for the selected dom node in a sidebar of the elements pane.
+    * [LightHouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+      * This tool helps in Auditing web pages, analysing performance and capturing opportunities to improvement of Web Apps.
     * [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en)
       * Provides Chrome browser integration for the official LiveReload apps (Mac & Windows) and third-parties like guard-livereload and so on..
     * [MindMeister](https://chrome.google.com/webstore/detail/mindmeister/bdehgigffdnkjpaindemkaniebfaepjm)
