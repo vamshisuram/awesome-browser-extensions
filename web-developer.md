@@ -85,6 +85,8 @@
       * Split Screen made easy. Resize the current tab and tabs to the rignt into layouts on separate windows with Multi Monitor Support.
     * [Thorax Inspector](https://chrome.google.com/webstore/detail/thorax-inspector/poioalbefcopgeaeaadelomciijaondk)
       * Inspector extension for Thorax, a Backbone + Handlebars framework to build large scale web applications.
+    * [Vertov](https://chromewebstore.google.com/detail/vertov-screen-recorder/jdoejaekaomohdbefogghphmgadgepdm)
+      * Record a browser tab to show a UI issue or walk through a change, then share the recording with a teammate.
     * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
       * Controlling browser using vim commands.
     * [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
